@@ -68,6 +68,8 @@ nav ul li a {
 nav ul li ul{
     position: absolute;
 flex-direction: column;
+display:none;
+z-index:999;
 }
 nav ul li ul li a{
     display: block
